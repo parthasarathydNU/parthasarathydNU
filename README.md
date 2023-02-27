@@ -4,20 +4,14 @@ I am Dhruv Parthasarathy, currently am pursuing my Master's in Software Engineer
 [![Gmail Badge](https://img.shields.io/badge/-parthadhruv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parthadhruv@gmail.com)](mailto:parth@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-parthasarathy.d@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:parthasarathy.d@outlook.com)](mailto:parthasarathy.d@outlook.com)
 
-## 📋 Languages
+## ⚡ Languages and Technologies
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E)
-
-🧪 Testing Libraries
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-
-## ⚡ Technologies
-
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
