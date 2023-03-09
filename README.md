@@ -8,6 +8,7 @@
 
 [![Outlook Badge](https://img.shields.io/badge/-parthasarathy.d@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:parthasarathy.d@outlook.com)](mailto:parthasarathy.d@outlook.com)
 
+![LeetCode](https://img.shields.io/badge/parthasarathydNU-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)
 
 
 ## ⚡ Languages and Technologies
