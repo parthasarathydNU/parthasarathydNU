@@ -6,7 +6,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-parthadhruv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parthadhruv@gmail.com)](mailto:parth@gmail.com)
 
-[![Outlook Badge](https://img.shields.io/badge/-parthasarathy.d@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:parthasarathy.d@northeastern.edu)](mailto:parthasarathy.d@northeastern.edu)
+[![Outlook Badge](https://img.shields.io/badge/-parthasarathy.d@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:parthasarathy.d@northeastern.edu)](mailto:parthasarathy.d@northeastern.edu)
 
 ![LeetCode](https://img.shields.io/badge/parthasarathydNU-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)
 
