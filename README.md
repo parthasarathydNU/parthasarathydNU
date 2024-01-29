@@ -50,8 +50,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=parthasarathydNU&count_private=true&show_icons=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathydNU&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=parthasarathydNU.parthasarathydNU)
