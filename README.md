@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am Dhruv Parthasarathy, currently am pursuing my Master's in Software Engineering Systems at Northeastern University. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here: 
+I am Dhruv Parthasarathy, currently am pursuing my Master's in Software Engineering Systems at Northeastern University. I am a Full-Stack software engineer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-parthasarathydhruv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthasarathydhruv/)](https://www.linkedin.com/in/parthasarathydhruv/)
 
