@@ -1,6 +1,7 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=parthasarathydNU.parthasarathydNU)
 ## Hi there 👋
 
-I am Dhruv Parthasarathy, currently am pursuing my Master's in Software Engineering Systems at Northeastern University. I am a Full-Stack software engineer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here: 
+I am Dhruv Parthasarathy, currently pursuing my Master's in Software Engineering Systems at Northeastern University. I am a Full-Stack software engineer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-parthasarathydhruv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthasarathydhruv/)](https://www.linkedin.com/in/parthasarathydhruv/) [![Gmail Badge](https://img.shields.io/badge/-parthadhruv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parthadhruv@gmail.com)](mailto:parth@gmail.com) [![Outlook Badge](https://img.shields.io/badge/-parthasarathy.d@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:parthasarathy.d@northeastern.edu)](mailto:parthasarathy.d@northeastern.edu) [![LeetCode](https://img.shields.io/badge/parthasarathydNU-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/parthasarathydNU/)
 
@@ -42,5 +43,3 @@ I am Dhruv Parthasarathy, currently am pursuing my Master's in Software Engineer
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathydNU&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=parthasarathydNU.parthasarathydNU)
