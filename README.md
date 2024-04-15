@@ -5,7 +5,6 @@ I am Dhruv Parthasarathy, currently pursuing my Master's in Software Engineering
 
 [![Linkedin Badge](https://img.shields.io/badge/-parthasarathydhruv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthasarathydhruv/)](https://www.linkedin.com/in/parthasarathydhruv/) [![Gmail Badge](https://img.shields.io/badge/-parthadhruv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parthadhruv@gmail.com)](mailto:parth@gmail.com) [![Outlook Badge](https://img.shields.io/badge/-parthasarathy.d@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:parthasarathy.d@northeastern.edu)](mailto:parthasarathy.d@northeastern.edu) [![LeetCode](https://img.shields.io/badge/parthasarathydNU-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/parthasarathydNU/)
 
-
 ## ⚡ Languages and Technologies
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -42,7 +41,6 @@ I am Dhruv Parthasarathy, currently pursuing my Master's in Software Engineering
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthasarathydNU&hide=TeX&layout=compact)
 
 ## Professional Experience
 
@@ -62,3 +60,7 @@ Tasks accomplished:
 
 > "Dhruv is a positive and enthusiastic individual. From day one it was clear he intended to grow and improve as a software developer. He certainly did that during his time at Running Tide. Never backing down from a challenge and taking initiave in finding good solutions to any problem he was presented."
 > **- [Reynir Ingason](https://www.linkedin.com/in/reynir-ingason?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLhiIaC46T7miUvSV%2F2ETag%3D%3D), Project Manager, Running Tide**
+
+---
+
+![Stats](https://myreadme.vercel.app/api/embed/parthasarathydNU?panels=userstatistics,commitgraph,toplanguages,toprepositories)
