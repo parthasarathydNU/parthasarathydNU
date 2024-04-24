@@ -53,10 +53,6 @@ I am Dhruv Parthasarathy, currently pursuing my Master's in Software Engineering
 ![Running Tide Logo](Companies/65d3e581931dc0450e00611b_running-tide_logo-hz.svg)
 ### _Full Stack Engineer_
 *May 2023 - Dec 2023*
-Tasks accomplished:
-- Developed a reporting engine framework using NodeJS, PhantomJS and Handlebars libraries to automate report generation, reducing time by over 99%, from 5 hours to less than 1 minute
-- Successfully migrated the front-end of the application from ReactJS to NextJS and TypeScript, resulting in a remarkable reduction in development and deployment time by 30%, while achieving enhanced performance and maintainability
-- Created a map-based device tracking visualization using MapboxJS, to aid with real-time monitoring and geospatial analysis of IoT devices deployed in the ocean
 
 > "Dhruv is a positive and enthusiastic individual. From day one it was clear he intended to grow and improve as a software developer. He certainly did that during his time at Running Tide. Never backing down from a challenge and taking initiave in finding good solutions to any problem he was presented."
 > **- [Reynir Ingason](https://www.linkedin.com/in/reynir-ingason?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLhiIaC46T7miUvSV%2F2ETag%3D%3D), Project Manager, Running Tide**
