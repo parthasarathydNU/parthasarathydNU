@@ -57,6 +57,14 @@ I am Dhruv Parthasarathy, currently pursuing my Master's in Software Engineering
 > "Dhruv is a positive and enthusiastic individual. From day one it was clear he intended to grow and improve as a software developer. He certainly did that during his time at Running Tide. Never backing down from a challenge and taking initiave in finding good solutions to any problem he was presented."
 > **- [Reynir Ingason](https://www.linkedin.com/in/reynir-ingason?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLhiIaC46T7miUvSV%2F2ETag%3D%3D), Project Manager, Running Tide**
 
+<img src="Companies/Mu_sigma_logo.jpg" alt="Mu Sigma Logo" style="width:auto; height:150px;">
+
+### _Full Stack Engineer_
+*Oct 2018 - Aug 2022*
+
+> "I've worked with Dhruv at various stages of his career at Mu Sigma, as a trainee, team member, and a team lead. He shows a great amount of drive when learning to pick up on new things, asking the right questions, and determination to see a deliverable to success when he hasn't worked on something similar before. I've also heard from multiple team members who have worked with him that he is a compassionate leader and shows by doing the work. Dhruv is a great coworker and I'd love to work with him again given the chance!"
+> **- [Suprit](https://www.linkedin.com/in/suprit-kulkarni?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recommendations_details%3BIJBQqkFFRuGn%2FwGxIbqPKg%3D%3D), Associate Technical Architect - MLOps Engineering @ Quantiphi | NVIDIA Practice**
+
 ---
 
 ![Stats](https://myreadme.vercel.app/api/embed/parthasarathydNU?panels=userstatistics,commitgraph,toplanguages,toprepositories)
