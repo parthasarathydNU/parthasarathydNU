@@ -1,45 +1,46 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=parthasarathydNU.parthasarathydNU)
-## Hi there 👋
+## Hi there, I'm Dhruv Parthasarathy 👋
 
-I am Dhruv Parthasarathy, currently pursuing my Master's in Software Engineering Systems at Northeastern University. I am a Full-Stack software engineer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here: 
+### About Me
+I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, React, D3, ThreeJS, Node, TypeScript, and Java. Currently pursuing my Master's in Software Engineering Systems at Northeastern University. I love writing clean and maintainable code.
 
-[![Linkedin Badge](https://img.shields.io/badge/-parthasarathydhruv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthasarathydhruv/)](https://www.linkedin.com/in/parthasarathydhruv/) [![Gmail Badge](https://img.shields.io/badge/-parthadhruv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parthadhruv@gmail.com)](mailto:parth@gmail.com) [![Outlook Badge](https://img.shields.io/badge/-parthasarathy.d@northeastern.edu-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:parthasarathy.d@northeastern.edu)](mailto:parthasarathy.d@northeastern.edu) [![LeetCode](https://img.shields.io/badge/parthasarathydNU-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/parthasarathydNU/)
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/parthadhruv/)
+- [GitHub](https://github.com/parthasarathydNU)
+- [Email](mailto:parthasarathy.d@northeastern.edu)
 
 ## ⚡ Languages and Technologies
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+
+
+### Key Projects
+- **[AutoGrader](https://github.com/parthasarathydNU/autoGrader)**: An automated assignment grading system leveraging AI for enhanced grading efficiency.
+- **[Path Finder](https://github.com/parthasarathydNU/path-finder)**: Algorithm visualizer application built using React.
+- **[12 Factor App](https://github.com/orgs/cloud-assignments-org/repositories)**: Secure, scalable web applications using cloud-native technologies and DevOps practices.
 
 
 ## Professional Experience
@@ -66,5 +67,6 @@ I am Dhruv Parthasarathy, currently pursuing my Master's in Software Engineering
 > **- [Suprit](https://www.linkedin.com/in/suprit-kulkarni?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recommendations_details%3BIJBQqkFFRuGn%2FwGxIbqPKg%3D%3D), Associate Technical Architect - MLOps Engineering @ Quantiphi | NVIDIA Practice**
 
 ---
+
 
 ![Stats](https://myreadme.vercel.app/api/embed/parthasarathydNU?panels=userstatistics,commitgraph,toplanguages,toprepositories)
