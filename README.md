@@ -41,7 +41,7 @@ I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, Rea
 - **[AutoGrader](https://github.com/parthasarathydNU/autoGrader)**: An automated assignment grading system leveraging AI for enhanced grading efficiency.
 - **[Path Finder](https://github.com/parthasarathydNU/path-finder)**: Algorithm visualizer application built using React.
 - **[12 Factor App](https://github.com/orgs/cloud-assignments-org/repositories)**: Secure, scalable web applications using cloud-native technologies and DevOps practices.
-
+- **[Protein Structure Visualizer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A comprehensive web application designed to interact with a protein database. It includes functionalities for creating, reading, updating, and deleting protein data, as well as advanced features like an AI chatbot for SQL query generation and visualizations using Three.js.
 
 ## Professional Experience
 
