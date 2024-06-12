@@ -4,6 +4,27 @@
 ### About Me
 I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, React, D3, ThreeJS, Node, TypeScript, and Java. Currently pursuing my Master's in Software Engineering Systems at Northeastern University. I love writing clean and maintainable code.
 
+### Reels 🎥
+
+Click on these videos to check my projects out !
+
+<p align="center" display="flex">
+  <div>
+      <b>Protein Structure Explorer </b><br>
+      <a href="https://www.youtube.com/watch?v=rLfArYYq_oM">
+        <img src="http://img.youtube.com/vi/rLfArYYq_oM/0.jpg" alt="Video 1" style="width: 48%;">
+      </a>
+  </div>
+
+  <div>
+    <b>Advanced 3D Visualizations | Trading Data</b><br>
+    <a href="https://www.youtube.com/watch?v=tF2uorNeTQI">
+      <img src="http://img.youtube.com/vi/tF2uorNeTQI/0.jpg" alt="Video 2" style="width: 48%;">
+    </a> 
+  </div>
+</p>
+
+
 ## ⚡ Languages and Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
@@ -40,7 +61,7 @@ I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, Rea
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ### Key Projects
-- **[Protein Structure Visualizer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A web app designed to interact with a protein database visualize protein structures and query information through natural language and LLMs
+- **[Protein Structure Explorer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A web app designed to interact with a protein database visualize protein structures and query information through natural language and LLMs
 - **[AutoGrader](https://github.com/parthasarathydNU/autoGrader)**: An automated assignment grading system leveraging AI for enhanced grading efficiency.
 - **[Path Finder](https://github.com/parthasarathydNU/path-finder)**: Algorithm visualizer application built using React.
 - **[12 Factor App](https://github.com/orgs/cloud-assignments-org/repositories)**: Secure, scalable web applications using cloud-native technologies and DevOps practices.
