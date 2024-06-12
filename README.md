@@ -4,11 +4,6 @@
 ### About Me
 I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, React, D3, ThreeJS, Node, TypeScript, and Java. Currently pursuing my Master's in Software Engineering Systems at Northeastern University. I love writing clean and maintainable code.
 
-### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/parthadhruv/)
-- [GitHub](https://github.com/parthasarathydNU)
-- [Email](mailto:parthasarathy.d@northeastern.edu)
-
 ## ⚡ Languages and Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
@@ -16,6 +11,7 @@ I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, Rea
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -23,25 +19,22 @@ I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, Rea
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ### Key Projects
+- **[Protein Structure Visualizer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A web app designed to interact with a protein database visualize protein structures and query information through natural language and LLMs
 - **[AutoGrader](https://github.com/parthasarathydNU/autoGrader)**: An automated assignment grading system leveraging AI for enhanced grading efficiency.
 - **[Path Finder](https://github.com/parthasarathydNU/path-finder)**: Algorithm visualizer application built using React.
 - **[12 Factor App](https://github.com/orgs/cloud-assignments-org/repositories)**: Secure, scalable web applications using cloud-native technologies and DevOps practices.
-- **[Protein Structure Visualizer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A web app designed to interact with a protein database visualize protein structures and query information through natural language and LLMs
 
 ## Professional Experience
 
@@ -70,3 +63,8 @@ I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, Rea
 
 
 ![Stats](https://myreadme.vercel.app/api/embed/parthasarathydNU?panels=userstatistics,commitgraph,toplanguages,toprepositories)
+
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/parthadhruv/)
+- [GitHub](https://github.com/parthasarathydNU)
+- [Email](mailto:parthasarathy.d@northeastern.edu)
