@@ -64,7 +64,7 @@ Click on these videos to check my projects out !
 - **[Protein Structure Explorer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A web app designed to interact with a protein database visualize protein structures and query information through natural language and LLMs
 - **[AutoGrader](https://github.com/parthasarathydNU/autoGrader)**: An automated assignment grading system leveraging AI for enhanced grading efficiency.
 - **[Path Finder](https://github.com/parthasarathydNU/path-finder)**: Algorithm visualizer application built using React.
-- **[12 Factor App](https://github.com/orgs/cloud-assignments-org/repositories)**: Secure, scalable web applications using cloud-native technologies and DevOps practices.
+- **[12 Factor App](https://github.com/parthasarathydNU/webapp)**: Secure, scalable web applications using cloud-native technologies and DevOps practices.
 
 ## Professional Experience
 
