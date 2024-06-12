@@ -65,6 +65,7 @@ Click on these videos to check my projects out !
 - **[AutoGrader](https://github.com/parthasarathydNU/autoGrader)**: An automated assignment grading system leveraging AI for enhanced grading efficiency.
 - **[Path Finder](https://github.com/parthasarathydNU/path-finder)**: Algorithm visualizer application built using React.
 - **[12 Factor App](https://github.com/parthasarathydNU/webapp)**: Secure, scalable web applications using cloud-native technologies and DevOps practices.
+- **[Automating Infrastructure as Code](https://github.com/parthasarathydNU/tf-gcp-infra)**: Terraform to orchestrate a secure and scalable cloud-native application deployment on Google Cloud Platform.
 
 ## Professional Experience
 
