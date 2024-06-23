@@ -7,7 +7,7 @@ I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, Rea
 ## Credentials 
 
 <p>
-  <img width="150" src="https://github.com/parthasarathydNU/aws-ssa-notes/blob/main/Images/aws-certified-solutions-architect-associate.png" />
+  <img width="150" src="https://github.com/parthasarathydNU/cloud-certification-notes/blob/main/aws/Images/aws-certified-solutions-architect-associate.png" />
 </p>
 
 ### Reels 🎥
