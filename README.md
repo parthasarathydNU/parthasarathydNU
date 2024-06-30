@@ -16,9 +16,9 @@ Click on these videos to check my projects out !
 
 <p align="center" display="flex">
   <div>
-      <b>Protein Structure Explorer </b><br>
-      <a href="https://www.youtube.com/watch?v=rLfArYYq_oM">
-        <img src="http://img.youtube.com/vi/rLfArYYq_oM/0.jpg" alt="Video 1" style="width: 48%;">
+      <b> Natural Language to Plots generator </b><br>
+      <a href="https://www.youtube.com/watch?v=fvHakowMq7U">
+        <img src="http://img.youtube.com/vi/fvHakowMq7U/0.jpg" alt="Video 1" style="width: 48%;">
       </a>
   </div>
 
@@ -76,7 +76,7 @@ Click on these videos to check my projects out !
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ### Key Projects
-- **[Natural Language to SQL Prototype](https://github.com/parthasarathydNU/protein-data-nlq)** : GenoQuery is an innovative tool designed to streamline the process of querying genomic and biological data through a user-friendly chatbot interface.
+- **[Natural Language to SQL Prototype](https://github.com/parthasarathydNU/protein-data-nlq)** : GenoQuery is an innovative tool designed to streamline the process of querying and visualizing genomic and biological data through a user-friendly chatbot interface.
 - **[Protein Structure Explorer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A web app designed to interact with a protein database visualize protein structures and query information through natural language and LLMs
 - **[AutoGrader](https://github.com/parthasarathydNU/autoGrader)**: An automated assignment grading system leveraging AI for enhanced grading efficiency.
 - **[Path Finder](https://github.com/parthasarathydNU/path-finder)**: Algorithm visualizer application built using React.
