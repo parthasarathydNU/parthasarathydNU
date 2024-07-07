@@ -2,7 +2,14 @@
 ## Hi there, I'm Dhruv Parthasarathy 👋
 
 ### About Me
-I am a Full-Stack Developer with expertise in Generative AI, AWS, Terraform, React, D3, ThreeJS, Node, TypeScript, and Java. Currently pursuing my Master's in Software Engineering Systems at Northeastern University. I love writing clean and maintainable code.
+I'm an AWS Certified Solutions Architect Associate with over 4 years of full-stack development experience. I specialize in building scalable, cloud-native solutions and have a strong background in both frontend and backend technologies. My expertise spans JavaScript (React, NextJS, TypeScript), ThreeJS, D3, Python, Node.js, Java, Terraform, and various cloud platforms including AWS and GCP.
+
+Currently, I am researching and building applications leveraging Generative AI technologies. I am open to new opportunities where I can apply my skills to solve complex problems and drive innovation. 
+
+Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
+
+- email:    parthasarathy.d@northeastern.edu
+- linkedin: linkedin.com/in/parthadhruv/
 
 ## Credentials 
 
