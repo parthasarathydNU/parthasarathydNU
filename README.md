@@ -11,6 +11,11 @@ Feel free to explore my projects below and connect with me for opportunities to 
 - email:    parthasarathy.d@northeastern.edu
 - linkedin: linkedin.com/in/parthadhruv/
 
+### Interesting Fact
+
+I contributed a solution to enhance the Puppeteer Library's compatibility with Docker Containers on M1 macOS chips. You can view my suggestion in this discussion: [Puppeteer GitHub Issue Comment](https://github.com/puppeteer/puppeteer/issues/1718#issuecomment-1666065872).
+
+
 ## Credentials 
 
 <p>
