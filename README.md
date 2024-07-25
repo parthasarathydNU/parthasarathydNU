@@ -11,6 +11,15 @@ Feel free to explore my projects below and connect with me for opportunities to 
 - email:    parthasarathy.d@northeastern.edu
 - linkedin: linkedin.com/in/parthadhruv/
 
+### Key Projects
+- **[Implementation of Instruction Backtranslation Paper](https://github.com/parthasarathydNU/gen-ai-coursework/tree/main/advanced-llms/instruction-backtranslation)**: Instruction backtranslation is revolutionizing the way LLMs are aligned to follow instructions. By leveraging vast amounts of unlabelled data and minimal human-annotated seed data, this technique generates high-quality instructional data through an iterative self-training process
+- **[Natural Language to SQL Prototype](https://github.com/parthasarathydNU/protein-data-nlq)** : GenoQuery is an innovative tool designed to streamline the process of querying and visualizing genomic and biological data through a user-friendly chatbot interface.
+- **[Protein Structure Explorer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A web app designed to interact with a protein database visualize protein structures and query information through natural language and LLMs
+- **[AutoGrader](https://github.com/parthasarathydNU/autoGrader)**: An automated assignment grading system leveraging AI for enhanced grading efficiency.
+- **[Path Finder](https://github.com/parthasarathydNU/path-finder)**: Algorithm visualizer application built using React.
+- **[12 Factor App](https://github.com/parthasarathydNU/webapp)**: Secure, scalable web applications using cloud-native technologies and DevOps practices.
+- **[Automating Infrastructure as Code](https://github.com/parthasarathydNU/tf-gcp-infra)**: Terraform to orchestrate a secure and scalable cloud-native application deployment on Google Cloud Platform.
+
 ### Interesting Fact
 
 I contributed a solution to enhance the Puppeteer Library's compatibility with Docker Containers on M1 macOS chips. You can view my suggestion in this discussion: [Puppeteer GitHub Issue Comment](https://github.com/puppeteer/puppeteer/issues/1718#issuecomment-1666065872).
@@ -86,14 +95,6 @@ Click on these videos to check my projects out !
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-### Key Projects
-- **[Natural Language to SQL Prototype](https://github.com/parthasarathydNU/protein-data-nlq)** : GenoQuery is an innovative tool designed to streamline the process of querying and visualizing genomic and biological data through a user-friendly chatbot interface.
-- **[Protein Structure Explorer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A web app designed to interact with a protein database visualize protein structures and query information through natural language and LLMs
-- **[AutoGrader](https://github.com/parthasarathydNU/autoGrader)**: An automated assignment grading system leveraging AI for enhanced grading efficiency.
-- **[Path Finder](https://github.com/parthasarathydNU/path-finder)**: Algorithm visualizer application built using React.
-- **[12 Factor App](https://github.com/parthasarathydNU/webapp)**: Secure, scalable web applications using cloud-native technologies and DevOps practices.
-- **[Automating Infrastructure as Code](https://github.com/parthasarathydNU/tf-gcp-infra)**: Terraform to orchestrate a secure and scalable cloud-native application deployment on Google Cloud Platform.
 
 ## Professional Experience
 
