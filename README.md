@@ -11,6 +11,9 @@ Feel free to explore my projects below and connect with me for opportunities to 
 - email:    parthasarathy.d@northeastern.edu
 - linkedin: linkedin.com/in/parthadhruv/
 
+### Currently Working On
+- **[DermAI Viz](https://github.com/parthasarathydNU/derm-ai-viz)** : A web platform that enables doctors and medical practitioners to visualize skin condition progression backed by Diffusion Models and access a comprehensive knowledge base for immediate clinical insights and patient education using LLMs.
+
 ### Key Projects
 - **[Implementation of Instruction Backtranslation Paper](https://github.com/parthasarathydNU/gen-ai-coursework/tree/main/advanced-llms/instruction-backtranslation)**: Instruction backtranslation is revolutionizing the way LLMs are aligned to follow instructions. By leveraging vast amounts of unlabelled data and minimal human-annotated seed data, this technique generates high-quality instructional data through an iterative self-training process
 - **[Generative Pretained Transformer](https://github.com/parthasarathydNU/gen-ai-coursework/blob/main/advanced-llms/generative-pre-trained-transformer.ipynb)**: Developed a GPT transformer model from scratch, implementing the MultiHead Attention mechanism and training it for text generation tasks
