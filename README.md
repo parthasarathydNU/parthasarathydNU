@@ -2,17 +2,20 @@
 ## Hi there, I'm Dhruv Parthasarathy 👋
 
 ### About Me
+
 I am a Generative AI Engineer with a strong focus on Generative Models and RAG architectures. Currently, I work at [FounderWayAI](https://www.founderway.ai) and serve as a Graduate Teaching Assistant for the Generative AI course at Northeastern University in Boston. I am also an AWS Certified Solutions Architect Associate with over 4 years of full-stack development experience.
 
 I am open to new opportunities where I can apply my skills to solve complex problems and drive innovation. With nearly 4 years of experience as a Full Stack Developer, I specialize in building scalable, cloud-native solutions and have a strong background in both frontend and backend technologies. My expertise spans JavaScript (React, NextJS, TypeScript), ThreeJS, D3, Python, Node.js, Java, Terraform, and various cloud platforms including AWS and GCP.
 
-Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
+View my **[Resume](https://github.com/parthasarathydNU/resume/blob/main/Resume.md)**
 
+Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
 - email:    parthasarathy.d@northeastern.edu
 - linkedin: linkedin.com/in/parthadhruv/
 
 ### Currently Working On
-- **[DermAI Viz](https://github.com/parthasarathydNU/derm-ai-viz)** : A web platform that enables doctors and medical practitioners to visualize skin condition progression backed by Diffusion Models and access a comprehensive knowledge base for immediate clinical insights and patient education using LLMs.
+- **[Direct Preference Optimization for LLM Fine-tuning](https://github.com/parthasarathydNU/gen-ai-coursework/tree/main/advanced-llms/direct-preference-optimization)** : Implementing the technique described in the "Direct Preference Optimization" paper to fine-tune large language models (LLMs) to better understand and align with human preferences
+- **[DermAI Viz](https://github.com/parthasarathydNU/derm-ai-viz)** : A web platform that enables doctors and medical practitioners to visualize skin condition progression backed by Diffusion Models and access a comprehensive knowledge base for immediate clinical insights and patient education using LLMs
 
 ### Key Projects
 - **[Implementation of Instruction Backtranslation Paper](https://github.com/parthasarathydNU/gen-ai-coursework/tree/main/advanced-llms/instruction-backtranslation)**: Instruction backtranslation is revolutionizing the way LLMs are aligned to follow instructions. By leveraging vast amounts of unlabelled data and minimal human-annotated seed data, this technique generates high-quality instructional data through an iterative self-training process
