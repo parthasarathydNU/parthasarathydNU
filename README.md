@@ -7,8 +7,8 @@ I am a Generative AI Engineer with a strong focus on Generative Models and RAG a
 
 I am open to new opportunities where I can apply my skills to solve complex problems and drive innovation. With nearly 4 years of experience as a Full Stack Developer, I specialize in building scalable, cloud-native solutions and have a strong background in both frontend and backend technologies. My expertise spans JavaScript (React, NextJS, TypeScript), ThreeJS, D3, Python, Node.js, Java, Terraform, and various cloud platforms including AWS and GCP.
 
-View my **[Resume](https://github.com/parthasarathydNU/resume/blob/main/Resume.md)**
-Check out my work on **[HuggingFace](https://huggingface.co/DhruvParth)**
+- View my **[Resume](https://github.com/parthasarathydNU/resume/blob/main/Resume.md)**
+- Check out my work on **[HuggingFace 🤗](https://huggingface.co/DhruvParth)**
 
 Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
 - email:    parthasarathy.d@northeastern.edu
