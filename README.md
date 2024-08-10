@@ -16,6 +16,7 @@ Feel free to explore my projects below and connect with me for opportunities to 
 - linkedin: linkedin.com/in/parthadhruv/
 
 ### Currently Working On
+- **[LLM Research Implementation Project](https://github.com/parthasarathydNU/gen-ai-coursework/discussions/6)** : Building a collaborative space for implementing cutting-edge Large Language Model research
 - **[Direct Preference Optimization for LLM Fine-tuning](https://github.com/parthasarathydNU/gen-ai-coursework/tree/main/advanced-llms/direct-preference-optimization)** : Implementing the technique described in the "Direct Preference Optimization" paper to fine-tune large language models (LLMs) to better understand and align with human preferences
 - **[DermAI Viz](https://github.com/parthasarathydNU/derm-ai-viz)** : A web platform that enables doctors and medical practitioners to visualize skin condition progression backed by Diffusion Models and access a comprehensive knowledge base for immediate clinical insights and patient education using LLMs
 
