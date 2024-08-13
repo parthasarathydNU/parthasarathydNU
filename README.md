@@ -9,7 +9,7 @@ I am open to new opportunities where I can apply my skills to solve complex prob
 
 - View my **[Resume](https://github.com/parthasarathydNU/resume/blob/main/Resume.md)**
 - Check out my work on **[HuggingFace 🤗](https://huggingface.co/DhruvParth)**
-- Looking out for collaborators to work on implementing [research papers](https://github.com/parthasarathydNU/gen-ai-coursework/tree/main/advanced-llms) releated to Gen AI 
+- Looking out for collaborators to work on implementing [research papers](https://github.com/parthasarathydNU/gen-ai-coursework/tree/main/advanced-llms) 📣 releated to Gen AI 
 
 Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
 - email:    parthasarathy.d@northeastern.edu
