@@ -5,7 +5,7 @@
 
 I am a Generative AI Engineer with a strong focus on Generative Models and RAG architectures. Currently, I work with [FounderWayAI](https://www.founderway.ai) and serve as a Generative AI Research Assistant at Northeastern University in Boston. I am also an AWS Certified Solutions Architect Associate with over 4 years of full-stack development experience.
 
-I am open to new opportunities where I can apply my skills to solve complex problems and drive innovation. With nearly 4 years of experience as a Full Stack Developer, I specialize in building scalable, cloud-native solutions and have a strong background in both frontend and backend technologies. My expertise spans JavaScript (React, NextJS, TypeScript), ThreeJS, D3, Python, Node.js, Java, Terraform, and various cloud platforms including AWS and GCP.
+I am open to new opportunities where I can apply my skills to solve complex problems and drive innovation. With nearly 5 years of experience as a Full Stack Developer, I specialize in building scalable, cloud-native solutions and have a strong background in both frontend and backend technologies. My expertise spans JavaScript (React, NextJS, TypeScript), ThreeJS, D3, Python, Node.js, Java, Terraform, and various cloud platforms including AWS and GCP.
 
 - View my **[Resume](https://github.com/parthasarathydNU/resume/blob/main/Resume.md)**
 - Check out my work on **[HuggingFace 🤗](https://huggingface.co/DhruvParth)**
