@@ -16,8 +16,8 @@ Feel free to explore my projects below and connect with me for opportunities to 
 - linkedin: linkedin.com/in/parthadhruv/
 
 ### Currently Working On
-- **[Building Uber From Scratch](https://github.com/parthasarathydNU/uber)** : This project aims to create an open-source, customizable Uber-like ride-hailing simulation platform. Our goal is to provide a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, analyze system behavior, and innovate in the field of urban mobility.
 - **[Cli Gen](https://github.com/parthasarathydNU/cli-gen)** : CLI-Gen is an innovative open-source project that aims to use graph-based code representation and Large Language Models (LLMs) to automate test case generation and client library creation.
+- **[Building Uber From Scratch](https://github.com/parthasarathydNU/uber)** : This project aims to create an open-source, customizable Uber-like ride-hailing simulation platform. Our goal is to provide a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, analyze system behavior, and innovate in the field of urban mobility.
 
 ### Key Projects
 - **[Protein Structure Explorer](https://github.com/parthasarathydNU/protien-data-visualizer)** : A web app designed to interact with a protein database visualize protein structures and query information through chatbots
