@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a Generative AI Engineer with a strong focus on Generative Models and RAG architectures. Currently, I work with [FounderWayAI](https://www.founderway.ai) and serve as a Generative AI Research Assistant at Northeastern University in Boston. I am also an AWS Certified Solutions Architect Associate with over 4 years of full-stack development experience.
+I am a Generative AI Engineer with a strong focus on Generative Models and RAG architectures. I work with [FounderWayAI](https://www.founderway.ai) and served as a Generative AI Research Assistant at Northeastern University in Boston. I am also an AWS Certified Solutions Architect Associate with 5 years of full-stack development experience.
 
 I am open to new opportunities where I can apply my skills to solve complex problems and drive innovation. With nearly 5 years of experience as a Full Stack Developer, I specialize in building scalable, cloud-native solutions and have a strong background in both frontend and backend technologies. My expertise spans JavaScript (React, NextJS, TypeScript), ThreeJS, D3, Python, Node.js, Java, Terraform, and various cloud platforms including AWS and GCP.
 
@@ -133,9 +133,6 @@ Click on these videos to check my projects out !
 > **- [Suprit](https://www.linkedin.com/in/suprit-kulkarni?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recommendations_details%3BIJBQqkFFRuGn%2FwGxIbqPKg%3D%3D), Associate Technical Architect - MLOps Engineering @ Quantiphi | NVIDIA Practice**
 
 ---
-
-
-![Stats](https://myreadme.vercel.app/api/embed/parthasarathydNU?panels=userstatistics,commitgraph,toplanguages,toprepositories)
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/parthadhruv/)
