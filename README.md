@@ -108,11 +108,17 @@ Click on these videos to check my projects out !
 
 ## Professional Experience
 
-![FounderWay Logo](Companies/founderWayLogo.png)
-### _Full Stack Engineer_
-*April Jan 2024 - Present*
+<img src="Companies/Google_DeepMind_logo.png" alt="Google DeepMind Logo" style="width:auto; height:150px;"/>
+
+### _Software Engineer_
+*Dec 2024 - Present*
+- [Google AI Studio](https://aistudio.google.com/)
+- [Google I/O 2025](https://io.google/2025/)
 
 ---
+![FounderWay Logo](Companies/founderWayLogo.png)
+### _Full Stack Engineer_
+*April 2024 - Aug 2024*
 
 ![Running Tide Logo](Companies/65d3e581931dc0450e00611b_running-tide_logo-hz.svg)
 ### _Full Stack Engineer_
