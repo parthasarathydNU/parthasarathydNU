@@ -140,4 +140,4 @@ Click on these videos to check my projects out !
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/parthadhruv/)
 - [GitHub](https://github.com/parthasarathydNU)
-- [Email](mailto:parthasarathy.d@northeastern.edu)
+- [Email](mailto:parthadhruv@gmail.com)
